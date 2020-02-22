@@ -5,6 +5,9 @@
 # vscode
 .vscode
 
+# pyenv
+.python-version
+
 # packages
 *.egg-info
 
