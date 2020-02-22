@@ -1,0 +1,13 @@
+# pycharm
+.idea
+.idea/*
+
+# vscode
+.vscode
+
+# packages
+*.egg-info
+
+# app
+video_backup
+video_backup/*
