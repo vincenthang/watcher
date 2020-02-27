@@ -50,7 +50,7 @@ poetry install
 
 Complete [installation](#installation), then install pre-commit.
 ```bash
-poetry pre-commit install
+poetry run pre-commit install
 ```
 ### Testing
 This project uses `pytest`.
